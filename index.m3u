@@ -15,7 +15,7 @@ http://39.135.36.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ys
 http://39.135.36.140:18890/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000016466&owchid=ystenlive&owsid=1106497909461115566&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRPL4aTeGJNlZwIkZROfGAKEC3iG4uOUkYNIdPRliCqBi8AjSQtKTBHB8b3LPXJcIA
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://s2.ax1x.com/2019/12/28/leb0eJ.png" group-title="A-央视",CCTV-7国防军事
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226044/10000100000000060000000000291607_0.smil
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://s2.ax1x.com/2019/12/28/lebBw9.png" group-title="A-央视",CCTV-8电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://s2.ax1x.com/2019/12/28/lm35Hf.png" group-title="A-央视",CCTV-8电视剧
 http://39.135.36.154:18890/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000003736&owchid=ystenlive&owsid=1106497909461132718&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRKhIjYL3aRNrIf2qoTcK90Bd0oe1gvWxxvd9Qs9pkD5eKCeYPeHs2GppHtnd1klhd
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://s2.ax1x.com/2019/12/28/lebsF1.png" group-title="A-央视",CCTV-9纪录
 http://39.135.36.145:18890/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=1106497909461138654&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRh3XYVWmjehcJ6eeMnvhxAUHggQtCK8Xdm86HMC53JU75N56tG8kTzA%2fMocL0w%2bEi
@@ -493,7 +493,7 @@ http://cloud-play.hhalloy.com/live/b599c0682fbb5364078cb9e3093228a6.flv
 http://cloud-play.hhalloy.com/live/96681c92588f5254e1c9f8fcb41e9d64.flv
 #EXTINF:-1 tvg-id="538" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="F-少儿",ANIMAX
 http://cloud-play.hhalloy.com/live/33de03293563010671a856688d63d4ee.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="A-央视",CCTV[4K]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/28/lm3oE8.png" group-title="A-央视",CCTV[4K]
 https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f504fd09044e0b6615040f0/8000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-地方",广东综艺[4K]
 http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
