@@ -77,15 +77,15 @@ http://39.135.36.158:18890/000000001000/1000000001000013731/1.m3u8?channel-id=ys
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=025&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="四川卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKJKS.png" group-title="B-卫视",四川卫视
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=003&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="C-地方",求索科学HD
+#EXTINF:-1 tvg-id="75" tvg-name="求索科学" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZZjS.png" group-title="C-地方",求索科学HD
 http://27.36.62.162:9090/live/qiusuokexueHD_7000.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="C-地方",CHC高清电影
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil
-#EXTINF:-1 tvg-id="77" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="C-地方",求索动物HD
+#EXTINF:-1 tvg-id="77" tvg-name="求索动物" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZMAs.png" group-title="C-地方",求索动物HD
 http://27.36.62.162:9090/live/QSDWHD_7000.m3u8
-#EXTINF:-1 tvg-id="78" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="C-地方",求索生活HD
+#EXTINF:-1 tvg-id="78" tvg-name="求索生活" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZE1f.png" group-title="C-地方",求索生活HD
 http://27.36.62.162:9090/live/QSSHHD_7000.m3u8
-#EXTINF:-1 tvg-id="79" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="C-地方",求索纪录HD
+#EXTINF:-1 tvg-id="79" tvg-name="求索记录" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZnBQ.png" group-title="C-地方",求索纪录HD
 http://27.36.62.162:9090/live/QSJLHD_7000.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="C-地方",CHC动作电影
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001972392_0.smil
