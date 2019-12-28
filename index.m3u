@@ -77,6 +77,8 @@ http://39.135.36.158:18890/000000001000/1000000001000013731/1.m3u8?channel-id=ys
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=025&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="四川卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKJKS.png" group-title="B-卫视",四川卫视
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=003&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="厦门卫视" tvg-logo="https://s2.ax1x.com/2019/12/29/lnKllt.png" group-title="B-卫视",厦门卫视
+http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="求索科学" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZZjS.png" group-title="C-地方",求索科学HD
 http://27.36.62.162:9090/live/qiusuokexueHD_7000.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="C-地方",CHC高清电影
