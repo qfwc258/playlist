@@ -80,19 +80,19 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=003&amp;FvSeid=1&amp;Fsv_ctype=
 #EXTINF:-1 tvg-id="55" tvg-name="厦门卫视" tvg-logo="https://s2.ax1x.com/2019/12/29/lnKllt.png" group-title="B-卫视",厦门卫视
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="凤凰中文" tvg-logo="https://s2.ax1x.com/2019/12/29/luPwvQ.png" group-title="C-地方",凤凰中文
-http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
 #EXTINF:-1 tvg-id="248" tvg-name="凤凰咨询" tvg-logo="https://s2.ax1x.com/2019/12/29/luPt4f.png" group-title="C-地方",凤凰咨询
-http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://s2.ax1x.com/2019/12/29/luPUC8.png" group-title="C-地方",凤凰香港
 http://live.centerch.com/fhxg.m3u8
-#EXTINF:-1 tvg-id="75" tvg-name="求索科学" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZZjS.png" group-title="C-地方",求索科学HD
-http://27.36.62.162:9090/live/qiusuokexueHD_7000.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="求索动物" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZMAs.png" group-title="C-地方",求索动物HD
-http://27.36.62.162:9090/live/QSDWHD_7000.m3u8
-#EXTINF:-1 tvg-id="78" tvg-name="求索生活" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZE1f.png" group-title="C-地方",求索生活HD
-http://27.36.62.162:9090/live/QSSHHD_7000.m3u8
-#EXTINF:-1 tvg-id="79" tvg-name="求索记录" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZnBQ.png" group-title="C-地方",求索纪录HD
-http://27.36.62.162:9090/live/QSJLHD_7000.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="求索科学" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZZjS.png" group-title="C-地方",求索科学
+http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="求索动物" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZMAs.png" group-title="C-地方",求索动物
+http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="求索生活" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZE1f.png" group-title="C-地方",求索生活
+http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
+#EXTINF:-1 tvg-id="79" tvg-name="求索记录" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZnBQ.png" group-title="C-地方",求索纪录
+http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="CHC高清电影" tvg-logo="https://s2.ax1x.com/2019/12/29/lnbEJ1.png" group-title="C-地方",CHC高清电影
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil
 #EXTINF:-1 tvg-id="80" tvg-name="CHC动作电影" tvg-logo="https://s2.ax1x.com/2019/12/29/lnbVRx.png" group-title="C-地方",CHC动作电影
@@ -101,14 +101,10 @@ rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/10000100000000060000000001972393_0.smil
 #EXTINF:-1 tvg-id="149" tvg-name="北京纪实" tvg-logo="https://s2.ax1x.com/2019/12/29/luPBuj.png" group-title="C-地方",北京冬奥纪实
 http://39.134.65.162/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 tvg-id="150" tvg-name="BTV文艺" tvg-logo="https://s2.ax1x.com/2019/12/29/luPdgg.png" group-title="C-地方",北京文艺
-http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 tvg-id="162" tvg-name="劲爆体育" tvg-logo="https://s2.ax1x.com/2019/12/29/luPfv4.png" group-title="C-地方",劲爆体育HD
-http://27.36.62.162:9090/live/jinbaotiyuHD_7000.m3u8
-#EXTINF:-1 tvg-id="172" tvg-name="魅力音乐" tvg-logo="https://s2.ax1x.com/2019/12/29/luP4KJ.png" group-title="C-地方",魅力音乐HD
-http://27.36.62.162:9090/live/meiliyinyueHD_7000.m3u8
 #EXTINF:-1 tvg-id="180" tvg-name="上海纪实" tvg-logo="https://s2.ax1x.com/2019/12/29/luPqPK.png" group-title="C-地方",上海纪实
-rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
+http://112.50.243.4/PLTV/88888888/224/3221226958/1.m3u8
+#EXTINF:-1 tvg-id="241" tvg-name="金鹰纪实" tvg-logo="https://s2.ax1x.com/2019/12/29/luPW2F.png" group-title="C-地方",金鹰纪实
+rtsp://61.156.103.73:554/PLTV/88888888/224/3221226354/10000100000000060000000000912072_0.smil
 #EXTINF:-1 tvg-id="199" tvg-name="山东齐鲁" tvg-logo="https://s2.ax1x.com/2019/12/29/luPTV1.png" group-title="C-地方",山东齐鲁
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226516/10000100000000060000000001311826_0.smil
 #EXTINF:-1 tvg-id="200" tvg-name="山东体育" tvg-logo="https://s2.ax1x.com/2019/12/29/luPH56.png" group-title="C-地方",山东体育
@@ -117,8 +113,6 @@ rtsp://61.156.103.73:554/PLTV/88888888/224/3221225811/10000100000000060000000000
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221225812/10000100000000060000000000215683_0.smil
 #EXTINF:-1 tvg-id="206" tvg-name="山东生活" tvg-logo="https://s2.ax1x.com/2019/12/29/luP7Ux.png" group-title="C-地方",山东生活
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226689/10000100000000060000000001967168_0.smil
-#EXTINF:-1 tvg-id="241" tvg-name="金鹰纪实" tvg-logo="https://s2.ax1x.com/2019/12/29/luPW2F.png" group-title="C-地方",金鹰纪实
-rtsp://61.156.103.73:554/PLTV/88888888/224/3221226354/10000100000000060000000000912072_0.smil
 #EXTINF:-1 tvg-id="242" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="D-港台",TVB 翡翠台
 http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
 #EXTINF:-1 tvg-id="243" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="D-港台",TVB 明珠台
@@ -579,21 +573,21 @@ http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123003
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQ5E8.png" group-title="H-iHOT",iHOT-爱怀旧
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-iHOT",iHOT-爱旅行
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luUHoR.png" group-title="H-iHOT",iHOT-爱旅行
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQ7CQ.png" group-title="H-iHOT",iHOT-爱江湖
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQzUU.png" group-title="H-iHOT",iHOT-爱浪漫
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-iHOT",iHOT-爱院线
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luUIL4.png" group-title="H-iHOT",iHOT-爱院线
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lulM2d.png" group-title="H-iHOT",iHOT-爱喜剧
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQXD0.png" group-title="H-iHOT",iHOT-爱科幻
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-iHOT",iHOT-爱娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luUTeJ.png" group-title="H-iHOT",iHOT-爱娱乐
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-iHOT",iHOT-爱幼教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luUfzT.png" group-title="H-iHOT",iHOT-爱幼教
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQqvn.png" group-title="H-iHOT",iHOT-爱军武
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
@@ -706,7 +700,7 @@ https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f504fd090
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luA0J0.png" group-title="K-4K专区",广东综艺[4K]
 http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luAaon.png" group-title="K-4K专区",纯享[4K]
-http://117.169.124.37:6610/ysten-businessmobile/live/HD-20M-2160P-chunxiang4k/1.m3u8
+http://112.50.243.4/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="K-4K专区",爱上[4K]
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226315/10000100000000060000000000533024_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="K-4K专区",DOX[4K]
