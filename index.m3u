@@ -565,93 +565,153 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225883/1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lnbX0e.png" group-title="G-NewTV",NewTV炫舞未来
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226699/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN喜剧影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lulkK1.png" group-title="H-iHOT",iHOT-爱奇谈
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lulK8H.png" group-title="H-iHOT",iHOT-爱玩具
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQfDP.png" group-title="H-iHOT",iHOT-爱电竞
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luluPe.png" group-title="H-iHOT",iHOT-爱体育
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lulEb6.png" group-title="H-iHOT",iHOT-爱赛车
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luleUO.png" group-title="H-iHOT",iHOT-爱世界
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQ5E8.png" group-title="H-iHOT",iHOT-爱怀旧
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-iHOT",iHOT-爱旅行
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQ7CQ.png" group-title="H-iHOT",iHOT-爱江湖
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQzUU.png" group-title="H-iHOT",iHOT-爱浪漫
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-iHOT",iHOT-爱院线
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lulM2d.png" group-title="H-iHOT",iHOT-爱喜剧
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQXD0.png" group-title="H-iHOT",iHOT-爱科幻
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-iHOT",iHOT-爱娱乐
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-iHOT",iHOT-爱幼教
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQqvn.png" group-title="H-iHOT",iHOT-爱军武
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQH3j.png" group-title="H-iHOT",iHOT-爱解密
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQIUS.png" group-title="H-iHOT",iHOT-爱谍战
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lulC8J.png" group-title="H-iHOT",iHOT-爱猎奇
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lulQxA.png" group-title="H-iHOT",iHOT-爱悬疑
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lulS5F.png" group-title="H-iHOT",iHOT-爱历史
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQbgs.png" group-title="H-iHOT",iHOT-爱经典
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQWut.png" group-title="H-iHOT",iHOT-爱都市
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQxET.png" group-title="H-iHOT",iHOT-爱科学
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lulZVK.png" group-title="H-iHOT",iHOT-爱时尚
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lulm5D.png" group-title="H-iHOT",iHOT-爱探索
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lulivR.png" group-title="H-iHOT",iHOT-爱美食
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQo4g.png" group-title="H-iHOT",iHOT-爱家庭
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lulADx.png" group-title="H-iHOT",iHOT-爱青春
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luQhHf.png" group-title="H-iHOT",iHOT-爱动漫
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN喜剧影院
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN电影频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN电影频道
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBNTEA电竞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBNTEA电竞
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN精品影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN精品影院
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN嗨播频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN嗨播频道
 http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN古装剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN古装剧场
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN汉语频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN汉语频道
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN记录频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN记录频道
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN汽车频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN汽车频道
 http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN情感影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN情感影院
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN军事剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN军事剧场
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN教育频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN教育频道
 http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN骄阳剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN骄阳剧场
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN生活频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN生活频道
 http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN炫佳动漫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN炫佳动漫
 http://gs.hdp.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN童学世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN童学世界
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN文化中国
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN文化中国
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN微电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN微电影
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",CIBN电影导视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-CIBN",CIBN电影导视
 http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-欧美冒险
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-欧美冒险
 http://hls-ott-zhibo.wasu.tv/live/156/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-惊悚悬疑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-惊悚悬疑
 http://hls-ott-zhibo.wasu.tv/live/362/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-热门网大
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-热门网大
 http://hls-ott-zhibo.wasu.tv/live/363/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-BBC系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-BBC系列
 http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-生活杂谈
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-生活杂谈
 http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-社会真相
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-社会真相
 http://hls-ott-zhibo.wasu.tv/live/130/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-军事纪实
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-军事纪实
 http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-历史解密
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-历史解密
 http://hls-ott-zhibo.wasu.tv/live/369/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-科教人文
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-科教人文
 http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-大国时代
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-大国时代
 http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-热血抗战
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-热血抗战
 http://hls-ott-zhibo.wasu.tv/live/353/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-心动剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-心动剧场
 http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-百看不厌
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-百看不厌
 http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-情感生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-情感生活
 http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-少林问道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-少林问道
 http://hls-ott-zhibo.wasu.tv/live/160/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-学警雄心
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-学警雄心
 http://hls-ott-zhibo.wasu.tv/live/97/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-睡前故事
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-睡前故事
 http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-宝宝巴士
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-宝宝巴士
 http://hls-ott-zhibo.wasu.tv/live/234/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="H-数字",华数-公主城堡
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-公主城堡
 http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/28/lm3oE8.png" group-title="I-4K专区",CCTV[4K]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/28/lm3oE8.png" group-title="K-4K专区",CCTV[4K]
 https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f504fd09044e0b6615040f0/8000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luA0J0.png" group-title="I-4K专区",广东综艺[4K]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luA0J0.png" group-title="K-4K专区",广东综艺[4K]
 http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luAaon.png" group-title="I-4K专区",纯享[4K]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luAaon.png" group-title="K-4K专区",纯享[4K]
 http://117.169.124.37:6610/ysten-businessmobile/live/HD-20M-2160P-chunxiang4k/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-4K专区",爱上[4K]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="K-4K专区",爱上[4K]
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226315/10000100000000060000000000533024_0.smil
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-4K专区",DOX[4K]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="K-4K专区",DOX[4K]
 http://27.36.62.162:9090/live/dox4k_16000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-4K专区",BesTV[4K]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="K-4K专区",BesTV[4K]
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="I-4K专区",咪咕体育[4K]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="K-4K专区",咪咕体育[4K]
 http://39.134.65.162/PLTV/88888888/224/3221225655/index.m3u8
