@@ -495,6 +495,14 @@ http://cloud-play.hhalloy.com/live/b599c0682fbb5364078cb9e3093228a6.flv
 http://cloud-play.hhalloy.com/live/96681c92588f5254e1c9f8fcb41e9d64.flv
 #EXTINF:-1 tvg-id="538" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="F-少儿",ANIMAX
 http://cloud-play.hhalloy.com/live/33de03293563010671a856688d63d4ee.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lumzqO.png" group-title="C-地方",厦门综合
+http://112.50.243.8/PLTV/88888888/224/3221226814/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lunpZD.png" group-title="C-地方",厦门海峡
+http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lunCIH.png" group-title="C-地方",厦门生活
+http://112.50.243.8/PLTV/88888888/224/3221226760/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lun9de.png" group-title="C-地方",厦门影视
+http://112.50.243.8/PLTV/88888888/224/3221226764/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luP2CT.png" group-title="C-地方",海看剧场
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226303/10000100000000060000000000446692_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luPc5V.png" group-title="C-地方",海看大片
