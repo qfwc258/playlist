@@ -706,7 +706,7 @@ http://hls-ott-zhibo.wasu.tv/live/234/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-公主城堡
 http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/28/lm3oE8.png" group-title="K-4K专区",CCTV[4K]
-https://hls.cntv.myalicdn.com/asp/hls/8000/0303000a/3/default/c698d3595f504fd09044e0b6615040f0/8000.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luA0J0.png" group-title="K-4K专区",广东综艺[4K]
 http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luAaon.png" group-title="K-4K专区",纯享[4K]
