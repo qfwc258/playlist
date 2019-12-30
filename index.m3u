@@ -114,23 +114,35 @@ rtsp://61.156.103.73:554/PLTV/88888888/224/3221225812/10000100000000060000000000
 #EXTINF:-1 tvg-id="206" tvg-name="山东生活" tvg-logo="https://s2.ax1x.com/2019/12/29/luP7Ux.png" group-title="C-地方",山东生活
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226689/10000100000000060000000001967168_0.smil
 #EXTINF:-1 tvg-id="242" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="D-港台",TVB 翡翠台
-http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
+http://180.94.172.134:8891/stream/channelid/540849414
+#EXTINF:-1 tvg-id="257" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="D-港台",TVB J2
+http://180.94.172.134:8891/stream/channelid/2087466757
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="D-港台",無綫新聞台
+http://180.94.172.134:8891/stream/channelid/1119622269
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="D-港台",澳門蓮花
+http://180.94.172.134:8891/stream/channelid/359732891
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="D-港台",澳门资讯
+http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="D-港台",澳门综艺
+http://103.233.191.138/ch6/hd_ch6.live/playlist.m3u8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="D-港台",澳视体育
+http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="D-港台",澳视澳门
+http://103.233.191.138/ch1/ch1.live/master.m3u8
 #EXTINF:-1 tvg-id="243" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="D-港台",TVB 明珠台
 http://cloud-play.hhalloy.com/live/e5b375085720fd04cec615352224b493.flv
-#EXTINF:-1 tvg-id="251" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="D-港台",美亚电影
-http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv
-#EXTINF:-1 tvg-id="253" tvg-name="国家地理悠人频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png" group-title="E-海外",国家地理悠人
-http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
 #EXTINF:-1 tvg-id="256" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="D-港台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="257" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="D-港台",TVB J2
-http://cloud-play.hhalloy.com/live/9de1ac6a9a4642e1aac41462c6159b92.flv
 #EXTINF:-1 tvg-id="263" tvg-name="香港603" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkong603.png" group-title="D-港台",香港有线电视603
 http://cloud-play.hhalloy.com/live/390f07f18f550fb6e60c0c80264cdcc1.flv
 #EXTINF:-1 tvg-id="264" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="D-港台",TVB 星河
 http://cloud-play.hhalloy.com/live/e70f35708baededbbd1d0963f76981a1.flv
 #EXTINF:-1 tvg-id="266" tvg-name="星卫HD电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="D-港台",星卫HD电影
 http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
+#EXTINF:-1 tvg-id="251" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="D-港台",美亚电影
+http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv
+#EXTINF:-1 tvg-id="253" tvg-name="国家地理悠人频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png" group-title="E-海外",国家地理悠人
+http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
 #EXTINF:-1 tvg-id="268" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="E-海外",Channel V
 http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.flv
 #EXTINF:-1 tvg-id="271" tvg-name="公视2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV2.png" group-title="D-港台",公视2
