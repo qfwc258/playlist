@@ -68,7 +68,7 @@ rtsp://61.156.103.73:554/PLTV/88888888/224/3221226526/10000100000000060000000001
 #EXTINF:-1 tvg-id="38" tvg-name="黑龙江卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKM4I.png" group-title="B-卫视",黑龙江卫视
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221225874/10000100000000060000000000215723_0.smil
 #EXTINF:-1 tvg-id="39" tvg-name="河南卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKlCt.png" group-title="B-卫视",河南卫视
-http://stream.guihet.com/tv/116.php?id=019
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0AFFAFU319E8110K7775C537IB25D1374PBM323150BV1044EZ33519WE598DA3A3F1&playtoken=ABCDEFGH&verifycode=2004206903&programid=4200000312.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="湖北卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK18P.png" group-title="B-卫视",湖北卫视
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221225879/10000100000000060000000000215740_0.smil
 #EXTINF:-1 tvg-id="41" tvg-name="江西卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK3gf.png" group-title="B-卫视",江西卫视
