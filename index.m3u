@@ -76,7 +76,7 @@ http://39.135.36.158:18890/000000001000/1000000001000013731/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="42" tvg-name="吉林卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK8v8.png" group-title="B-卫视",吉林卫视
 http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0A9F41U3193D04BKB36121B0IB25D1374P8M3067712V0Z334B7W15E54F4C29C34DEE&playtoken=ABCDEFGH&verifycode=3009487280&programid=4200000500.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="四川卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKJKS.png" group-title="B-卫视",四川卫视
-http://stream.guihet.com/tv/116.php?id=003
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0A9F41U3193D04BKB36121B0IB25D1374P8M3067712V0Z334B7W15E54F4C29C34DEE&playtoken=ABCDEFGH&verifycode=3009487280&programid=4200000108.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="厦门卫视" tvg-logo="https://s2.ax1x.com/2019/12/29/lnKllt.png" group-title="B-卫视",厦门卫视
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="凤凰中文" tvg-logo="https://s2.ax1x.com/2019/12/29/luPwvQ.png" group-title="C-地方",凤凰中文
