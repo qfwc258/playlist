@@ -68,7 +68,7 @@ rtsp://61.156.103.73:554/PLTV/88888888/224/3221226526/10000100000000060000000001
 #EXTINF:-1 tvg-id="38" tvg-name="黑龙江卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKM4I.png" group-title="B-卫视",黑龙江卫视
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221225874/10000100000000060000000000215723_0.smil
 #EXTINF:-1 tvg-id="39" tvg-name="河南卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKlCt.png" group-title="B-卫视",河南卫视
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=019&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
+http://stream.guihet.com/tv/116.php?id=019
 #EXTINF:-1 tvg-id="40" tvg-name="湖北卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK18P.png" group-title="B-卫视",湖北卫视
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221225879/10000100000000060000000000215740_0.smil
 #EXTINF:-1 tvg-id="41" tvg-name="江西卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK3gf.png" group-title="B-卫视",江西卫视
@@ -76,7 +76,7 @@ http://39.135.36.158:18890/000000001000/1000000001000013731/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="42" tvg-name="吉林卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK8v8.png" group-title="B-卫视",吉林卫视
 http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0A9F41U3193D04BKB36121B0IB25D1374P8M3067712V0Z334B7W15E54F4C29C34DEE&playtoken=ABCDEFGH&verifycode=3009487280&programid=4200000500.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="四川卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKJKS.png" group-title="B-卫视",四川卫视
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0A9F41U3193D04BKB36121B0IB25D1374P8M3067712V0Z334B7W15E54F4C29C34DEE&playtoken=ABCDEFGH&verifycode=3009487280&programid=4200000108.m3u8
+http://stream.guihet.com/tv/116.php?id=003
 #EXTINF:-1 tvg-id="55" tvg-name="厦门卫视" tvg-logo="https://s2.ax1x.com/2019/12/29/lnKllt.png" group-title="B-卫视",厦门卫视
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="凤凰中文" tvg-logo="https://s2.ax1x.com/2019/12/29/luPwvQ.png" group-title="C-地方",凤凰中文
@@ -708,7 +708,7 @@ http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/28/lm3oE8.png" group-title="K-4K专区",CCTV[4K]
 http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luA0J0.png" group-title="K-4K专区",广东综艺[4K]
-http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
+http://stream.guihet.com/tv/116.php?id=077
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luAaon.png" group-title="K-4K专区",纯享[4K]
 http://112.50.243.4/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="K-4K专区",爱上[4K]
