@@ -24,7 +24,7 @@ rtsp://61.156.103.73:554/PLTV/88888888/224/3221226045/10000100000000060000000000
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://s2.ax1x.com/2019/12/28/leb6W6.png" group-title="A-央视",CCTV-11戏曲
 http://39.135.36.157:18890/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=1106497909461158507&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUELVtb8TDQzMSm5TScAJJF9JU4YcW5z4YHYDU6y7yn5EMhEqmI%2fAHiE6j4Y95QQ6
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://s2.ax1x.com/2019/12/28/lebgSK.png" group-title="A-央视",CCTV-12社会与法
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0A9F41U3193D04BKB36121B0IB25D1374P8M3067712V0Z334B7W15E54F4C29C34DEE&playtoken=ABCDEFGH&verifycode=3009487280&programid=4200000093.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/cctv-12/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://s2.ax1x.com/2019/12/28/lebRyD.png" group-title="A-央视",CCTV-13新闻
 http://39.135.36.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://s2.ax1x.com/2019/12/28/lebWOe.png" group-title="A-央视",CCTV-14少儿
@@ -75,8 +75,6 @@ rtsp://61.156.103.73:554/PLTV/88888888/224/3221225879/10000100000000060000000000
 http://39.135.36.158:18890/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000013731&owchid=ystenlive&owsid=1106497909461316198&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRQxb4dqC07SZV%2bYcygMME6A9OMzcDPgMD6e%2f%2fHx5xyjuJRcCBeGZaKds6mdw4roN8
 #EXTINF:-1 tvg-id="42" tvg-name="吉林卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK8v8.png" group-title="B-卫视",吉林卫视
 http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0A9F41U3193D04BKB36121B0IB25D1374P8M3067712V0Z334B7W15E54F4C29C34DEE&playtoken=ABCDEFGH&verifycode=3009487280&programid=4200000500.m3u8
-#EXTINF:-1 tvg-id="44" tvg-name="宁夏卫视" tvg-logo="https://s2.ax1x.com/2019/12/31/l31KpV.png" group-title="B-卫视",宁夏卫视
-http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0B0C69U31922163K77638962IB25D1374PBM31D00BAV0Z9C465W15E568B661F4DDF0&playtoken=ABCDEFGH&verifycode=2003011938&programid=4200900210.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="四川卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKJKS.png" group-title="B-卫视",四川卫视
 http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0A9F41U3193D04BKB36121B0IB25D1374P8M3067712V0Z334B7W15E54F4C29C34DEE&playtoken=ABCDEFGH&verifycode=3009487280&programid=4200000108.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="厦门卫视" tvg-logo="https://s2.ax1x.com/2019/12/29/lnKllt.png" group-title="B-卫视",厦门卫视
@@ -111,14 +109,6 @@ http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accessto
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000136.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-特色",都市剧场
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-特色",动漫秀场
-http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0B0C69U31922163K77638962IB25D1374PBM31D00BAV0Z9C465W15E568B661F4DDF0&playtoken=ABCDEFGH&verifycode=2003011938&programid=4200900156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-特色",法治天地
-http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0B0C69U31922163K77638962IB25D1374PBM31D00BAV0Z9C465W15E568B661F4DDF0&playtoken=ABCDEFGH&verifycode=2003011938&programid=4200900208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-特色",金色频道
-http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0B0C69U31922163K77638962IB25D1374PBM31D00BAV0Z9C465W15E568B661F4DDF0&playtoken=ABCDEFGH&verifycode=2003011938&programid=4200900209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-特色",足球频道
-http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0B0C69U31922163K77638962IB25D1374PBM31D00BAV0Z9C465W15E568B661F4DDF0&playtoken=ABCDEFGH&verifycode=2003011938&programid=4200900206.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="求索科学" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZZjS.png" group-title="C-特色",求索科学
 http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="求索动物" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZMAs.png" group-title="C-特色",求索动物
