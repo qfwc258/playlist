@@ -60,7 +60,7 @@ http://39.135.36.150:18890/000000001000/1000000002000018937/1.m3u8?channel-id=ys
 #EXTINF:-1 tvg-id="33" tvg-name="东南卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKP41.png" group-title="B-卫视",东南卫视
 http://39.135.36.154:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000009263&owchid=ystenlive&owsid=1106497909461310172&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhM1XYZKCRYYY%2ff447%2bzETLijqfFgMTSA9x9T2lf3pyhagZIF%2fdE1lc49i65lODYA%2f
 #EXTINF:-1 tvg-id="35" tvg-name="广西卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKAgK.png" group-title="B-卫视",广西卫视
-http://122.97.211.147:8114/FvSeid=&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=426212&Fsv_otype=0&Provider_id=&Pcontent_id=
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0A9F41U3193D04BKB36121B0IB25D1374P8M3067712V0Z334B7W15E54F4C29C34DEE&playtoken=ABCDEFGH&verifycode=3009487280&programid=4200000501.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="贵州卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKZuD.png" group-title="B-卫视",贵州卫视
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226547/10000100000000060000000001329927_0.smil
 #EXTINF:-1 tvg-id="37" tvg-name="河北卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKuEd.png" group-title="B-卫视",河北卫视
@@ -74,9 +74,9 @@ rtsp://61.156.103.73:554/PLTV/88888888/224/3221225879/10000100000000060000000000
 #EXTINF:-1 tvg-id="41" tvg-name="江西卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK3gf.png" group-title="B-卫视",江西卫视
 http://39.135.36.158:18890/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000013731&owchid=ystenlive&owsid=1106497909461316198&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRQxb4dqC07SZV%2bYcygMME6A9OMzcDPgMD6e%2f%2fHx5xyjuJRcCBeGZaKds6mdw4roN8
 #EXTINF:-1 tvg-id="42" tvg-name="吉林卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK8v8.png" group-title="B-卫视",吉林卫视
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=025&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0A9F41U3193D04BKB36121B0IB25D1374P8M3067712V0Z334B7W15E54F4C29C34DEE&playtoken=ABCDEFGH&verifycode=3009487280&programid=4200000500.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="四川卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKJKS.png" group-title="B-卫视",四川卫视
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=003&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0A9F41U3193D04BKB36121B0IB25D1374P8M3067712V0Z334B7W15E54F4C29C34DEE&playtoken=ABCDEFGH&verifycode=3009487280&programid=4200000108.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="厦门卫视" tvg-logo="https://s2.ax1x.com/2019/12/29/lnKllt.png" group-title="B-卫视",厦门卫视
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="凤凰中文" tvg-logo="https://s2.ax1x.com/2019/12/29/luPwvQ.png" group-title="C-地方",凤凰中文
