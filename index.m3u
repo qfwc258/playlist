@@ -78,7 +78,7 @@ http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&access
 #EXTINF:-1 tvg-id="44" tvg-name="宁夏卫视" tvg-logo="https://s2.ax1x.com/2019/12/31/l31KpV.png" group-title="B-卫视",宁夏卫视
 http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0B0C69U31922163K77638962IB25D1374PBM31D00BAV0Z9C465W15E568B661F4DDF0&playtoken=ABCDEFGH&verifycode=2003011938&programid=4200900210.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="四川卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKJKS.png" group-title="B-卫视",四川卫视
-http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0B0C69U31922163K77638962IB25D1374PBM31D00BAV0Z9C465W15E568B661F4DDF0&playtoken=ABCDEFGH&verifycode=2003011938&programid=4200900198.m3u8
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E0A9F41U3193D04BKB36121B0IB25D1374P8M3067712V0Z334B7W15E54F4C29C34DEE&playtoken=ABCDEFGH&verifycode=3009487280&programid=4200000108.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="厦门卫视" tvg-logo="https://s2.ax1x.com/2019/12/29/lnKllt.png" group-title="B-卫视",厦门卫视
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="凤凰中文" tvg-logo="https://s2.ax1x.com/2019/12/29/luPwvQ.png" group-title="C-特色",凤凰中文
