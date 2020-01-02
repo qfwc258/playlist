@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://s2.ax1x.com/2019/12/28/lebGiq.png" group-title="A-央视",CCTV-1综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://s2.ax1x.com/2019/12/28/lebJJ0.png" group-title="A-央视",CCTV-1综合
 http://39.135.36.154:18890/000000001000/1000000001000021973/1.m3u8?
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://s2.ax1x.com/2019/12/28/lebJJ0.png" group-title="A-央视",CCTV-2财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://s2.ax1x.com/2019/12/28/lebtzT.png" group-title="A-央视",CCTV-2财经
 http://39.135.36.156:18890/000000001000/1000000001000012442/1.m3u8?
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://s2.ax1x.com/2019/12/28/lebtzT.png" group-title="A-央视",CCTV-3综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://s2.ax1x.com/2019/12/28/lebUQU.png" group-title="A-央视",CCTV-3综艺
 http://39.135.36.150:18890/000000001000/1000000001000011218/1.m3u8?
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://s2.ax1x.com/2019/12/28/lebUQU.png" group-title="A-央视",CCTV-4中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://s2.ax1x.com/2019/12/28/lebGiq.png" group-title="A-央视",CCTV-4中文国际
 http://39.135.36.152:18890/000000001000/1000000002000031664/1.m3u8?
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://s2.ax1x.com/2019/12/28/lebYWV.png" group-title="A-央视",CCTV-5体育
 http://39.135.36.153:18890/000000001000/1000000001000004794/1.m3u8?
