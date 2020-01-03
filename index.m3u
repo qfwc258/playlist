@@ -60,7 +60,7 @@ http://39.135.36.154:18890/000000001000/1000000002000018937/1.m3u8?
 #EXTINF:-1 tvg-id="33" tvg-name="东南卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKP41.png" group-title="B-卫视",东南卫视
 http://39.135.36.155:18890/000000001000/1000000002000009263/1.m3u8?
 #EXTINF:-1 tvg-id="35" tvg-name="广西卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKAgK.png" group-title="B-卫视",广西卫视
-http://122.97.211.147:8114/FvSeid=&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=426212&Fsv_otype=0&Provider_id=&Pcontent_id=
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000125.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="贵州卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKZuD.png" group-title="B-卫视",贵州卫视
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226547/10000100000000060000000001329927_0.smil
 #EXTINF:-1 tvg-id="37" tvg-name="河北卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKuEd.png" group-title="B-卫视",河北卫视
@@ -76,7 +76,7 @@ http://39.135.36.158:18890/000000001000/1000000001000013731/1.m3u8?
 #EXTINF:-1 tvg-id="42" tvg-name="吉林卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK8v8.png" group-title="B-卫视",吉林卫视
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=025&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="四川卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKJKS.png" group-title="B-卫视",四川卫视
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=003&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
+http://118.123.60.200:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="厦门卫视" tvg-logo="https://s2.ax1x.com/2019/12/29/lnKllt.png" group-title="B-卫视",厦门卫视
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="凤凰中文" tvg-logo="https://s2.ax1x.com/2019/12/29/luPwvQ.png" group-title="C-特色",凤凰中文
