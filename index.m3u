@@ -177,6 +177,10 @@ http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.flv
 http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
 #EXTINF:-1 tvg-id="317" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="D-海外",非凡新闻[HD]
 http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.flv
+#EXTINF:-1 tvg-id="391" tvg-name="龙华经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8.png" group-title="E-影视",龙华经典
+http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
+#EXTINF:-1 tvg-id="408" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="E-影视",中视经典
+http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
 #EXTINF:-1 tvg-id="471" tvg-name="FoxNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxNews.png" group-title="D-海外",FOX News
 http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
 #EXTINF:-1 tvg-id="463" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="D-海外",BBC World News
@@ -221,16 +225,12 @@ http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
 http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
 #EXTINF:-1 tvg-id="389" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="E-影视",龙华电影
 http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
-#EXTINF:-1 tvg-id="391" tvg-name="龙华经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8.png" group-title="E-影视",龙华经典
-http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
 #EXTINF:-1 tvg-id="392" tvg-name="龙华影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%BD%B1%E5%89%A7.png" group-title="E-影视",龙华影剧
 http://cloud-play.hhalloy.com/live/d2e1d697b31906f91d7e19a5f06f64ed.flv
 #EXTINF:-1 tvg-id="393" tvg-name="龙华洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87.png" group-title="E-影视",龙华洋片
 http://cloud-play.hhalloy.com/live/b7829653660ec5e84c70e7f3a01e1e6c.flv
 #EXTINF:-1 tvg-id="406" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E7%94%B5%E5%BD%B1.png" group-title="E-影视",靖天电影
 http://cloud-play.hhalloy.com/live/5634d5c8ee5afeb118df8decf5eb6c56.flv
-#EXTINF:-1 tvg-id="408" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="E-影视",中视经典
-http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
 #EXTINF:-1 tvg-id="416" tvg-name="采昌影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%87%87%E6%98%8C%E5%BD%B1%E5%89%A7.png" group-title="E-影视",彩昌影剧台
 http://cloud-play.hhalloy.com/live/b93ac92b703885f3cfe39bad8aa689d1.flv
 #EXTINF:-1 tvg-id="418" tvg-name="影迷数位纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%BD%B1%E8%BF%B7%E7%BA%AA%E5%AE%9E.png" group-title="E-影视",影迷纪实台
