@@ -45,7 +45,7 @@ http://39.135.36.155:18890/000000001000/1000000001000017156/1.m3u8?
 http://39.135.36.155:18890/000000001000/1000000001000030202/1.m3u8?
 #EXTINF:-1 tvg-id="25" tvg-name="安徽卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZu7As.png" group-title="B-卫视",安徽卫视
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221225878/10000100000000060000000000215738_0.smil
-#EXTINF:-1 tvg-id="26" tvg-name="广东卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZuHNn.png" group-title="B-卫视",广东卫视
+#EXTINF:-1 tvg-id="26" tvg-name="广东卫视" tvg-logo="https://s2.ax1x.com/2019/12/29/luAwiq.png" group-title="B-卫视",广东卫视
 http://39.135.36.153:18890/000000001000/1000000001000028357/1.m3u8?
 #EXTINF:-1 tvg-id="27" tvg-name="深圳卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZubhq.png" group-title="B-卫视",深圳卫视
 http://39.135.36.154:18890/000000001000/1000000001000011645/1.m3u8?
