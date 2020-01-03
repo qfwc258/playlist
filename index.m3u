@@ -151,8 +151,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门综艺" tvg-logo="https://s2.ax1x.com/2019/12/30/llUkZD.png" group-title="D-海外",澳门综艺
 http://103.233.191.138/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳视体育" tvg-logo="https://s2.ax1x.com/2019/12/30/llUCM6.png" group-title="D-海外",澳视体育
-http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="https://s2.ax1x.com/2019/12/30/llUiqO.png" group-title="D-海外",澳视澳门
 http://103.233.191.138/ch1/ch1.live/master.m3u8
 #EXTINF:-1 tvg-id="281" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="D-海外",中视[HD]
@@ -177,12 +175,8 @@ http://cloud-play.hhalloy.com/live/4677cf6625ce01b236bbb58f99094d51.flv
 http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
 #EXTINF:-1 tvg-id="317" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="D-海外",非凡新闻[HD]
 http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.flv
-#EXTINF:-1 tvg-id="391" tvg-name="龙华经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8.png" group-title="D-海外",龙华经典
-http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
 #EXTINF:-1 tvg-id="408" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8.png" group-title="D-海外",中视经典
 http://cloud-play.hhalloy.com/live/75249ac8b464466a9c41c669bd27260a.flv
-#EXTINF:-1 tvg-id="471" tvg-name="FoxNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxNews.png" group-title="D-海外",FOX News
-http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
 #EXTINF:-1 tvg-id="463" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="D-海外",BBC World News
 http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
 #EXTINF:-1 tvg-id="268" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="D-海外",Channel V
@@ -225,6 +219,8 @@ http://cloud-play.hhalloy.com/live/24b15906d2250c062c0f0b5339e166b2.flv
 http://cloud-play.hhalloy.com/live/046d62141df9366aa54a66b22e095e24.flv
 #EXTINF:-1 tvg-id="389" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1.png" group-title="E-影视",龙华电影
 http://cloud-play.hhalloy.com/live/0e5dee9e8021ce3b9ec9bb78e9710555.flv
+#EXTINF:-1 tvg-id="391" tvg-name="龙华经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8.png" group-title="E-影视",龙华经典
+http://cloud-play.hhalloy.com/live/669a67f26ad4b9f68664bfcaefc9553e.flv
 #EXTINF:-1 tvg-id="392" tvg-name="龙华影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E5%BD%B1%E5%89%A7.png" group-title="E-影视",龙华影剧
 http://cloud-play.hhalloy.com/live/d2e1d697b31906f91d7e19a5f06f64ed.flv
 #EXTINF:-1 tvg-id="393" tvg-name="龙华洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87.png" group-title="E-影视",龙华洋片
@@ -251,6 +247,8 @@ http://cloud-play.hhalloy.com/live/9bece52b2f72795cc2f588f3d9e4eed3.flv
 http://cloud-play.hhalloy.com/live/357252de83720e30d40c00bfba69c497.flv
 #EXTINF:-1 tvg-id="490" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="E-影视",AXN
 http://cloud-play.hhalloy.com/live/c762110b3eef8bcccce5863643dd66aa.flv
+#EXTINF:-1 tvg-id="" tvg-name="澳视体育" tvg-logo="https://s2.ax1x.com/2019/12/30/llUCM6.png" group-title="F-体育",澳视体育
+http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="417" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E6%99%BA%E6%9E%97%E4%BD%93%E8%82%B2%E5%8F%B0.png" group-title="F-体育",智林体育台
 http://cloud-play.hhalloy.com/live/12b7289a05d4cb3c2b79f38b030e2548.flv
 #EXTINF:-1 tvg-id="325" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="F-体育",纬来体育[HD]
