@@ -1,76 +1,76 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://s2.ax1x.com/2019/12/28/lebJJ0.png" group-title="A-央视",CCTV-1综合
-http://39.135.36.154:18890/000000001000/1000000001000021973/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000105.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://s2.ax1x.com/2019/12/28/lebtzT.png" group-title="A-央视",CCTV-2财经
-http://39.135.36.156:18890/000000001000/1000000001000012442/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000137.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://s2.ax1x.com/2019/12/28/lebUQU.png" group-title="A-央视",CCTV-3综艺
-http://39.135.36.150:18890/000000001000/1000000001000011218/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000131.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://s2.ax1x.com/2019/12/28/lebGiq.png" group-title="A-央视",CCTV-4中文国际
-http://39.135.36.152:18890/000000001000/1000000002000031664/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000122.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://s2.ax1x.com/2019/12/28/lebYWV.png" group-title="A-央视",CCTV-5体育
-http://39.135.36.153:18890/000000001000/1000000001000004794/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000132.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://s2.ax1x.com/2019/12/28/lebayF.png" group-title="A-央视",CCTV-5+体育赛事
-http://39.135.36.156:18890/000000001000/1000000001000020505/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000106.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://s2.ax1x.com/2019/12/28/lebdL4.png" group-title="A-央视",CCTV-6电影
-http://39.135.36.150:18890/000000001000/1000000001000016466/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000133.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://s2.ax1x.com/2019/12/28/leb0eJ.png" group-title="A-央视",CCTV-7国防军事
-http://39.135.36.155:18890/000000001000/1000000001000024341/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000138.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://s2.ax1x.com/2019/12/28/lm35Hf.png" group-title="A-央视",CCTV-8电视剧
-http://39.135.36.152:18890/000000001000/1000000001000003736/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000134.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://s2.ax1x.com/2019/12/28/lebsF1.png" group-title="A-央视",CCTV-9纪录
-http://39.135.36.152:18890/000000001000/1000000001000028286/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000139.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://s2.ax1x.com/2019/12/28/lebyJx.png" group-title="A-央视",CCTV-10科教
-rtsp://61.156.103.73:554/PLTV/88888888/224/3221226045/10000100000000060000000000291610_0.smil
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000140.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://s2.ax1x.com/2019/12/28/leb6W6.png" group-title="A-央视",CCTV-11戏曲
-http://39.135.36.151:18890/000000001000/1000000002000019789/1.m3u8?
+http://39.135.36.157:18890/000000001000/1000000002000019789/1.m3u8?
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://s2.ax1x.com/2019/12/28/lebgSK.png" group-title="A-央视",CCTV-12社会与法
-http://39.135.36.156:18890/000000001000/1000000001000001640/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000128.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://s2.ax1x.com/2019/12/28/lebRyD.png" group-title="A-央视",CCTV-13新闻
-http://39.135.36.156:18890/000000001000/1000000002000021303/1.m3u8?
+http://39.135.36.142:18890/000000001000/1000000002000021303/1.m3u8?
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://s2.ax1x.com/2019/12/28/lebWOe.png" group-title="A-央视",CCTV-14少儿
-http://39.135.36.153:18890/000000001000/1000000001000021349/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000150.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://s2.ax1x.com/2019/12/28/lebheH.png" group-title="A-央视",CCTV-15音乐
-http://39.135.36.152:18890/000000001000/1000000002000008163/1.m3u8?
+http://39.135.36.158:18890/000000001000/1000000002000008163/1.m3u8?
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://s2.ax1x.com/2019/12/28/leboFI.png" group-title="A-央视",CCTV-17农村农业
-http://39.135.36.151:18890/000000001000/1000000005000056836/1.m3u8?
+http://39.135.36.140:18890/000000001000/1000000005000056836/1.m3u8?
 #EXTINF:-1 tvg-id="20" tvg-name="湖南卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZuIBQ.png" group-title="B-卫视",湖南卫视
-http://39.135.36.155:18890/000000001000/1000000001000009115/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000102.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="浙江卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZuW1f.png" group-title="B-卫视",浙江卫视
-http://39.135.36.153:18890/000000001000/1000000001000009806/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000103.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="江苏卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZuhjS.png" group-title="B-卫视",江苏卫视
-http://39.135.36.155:18890/000000001000/1000000001000004684/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000104.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="北京卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZufc8.png" group-title="B-卫视",北京卫视
-http://39.135.36.155:18890/000000001000/1000000001000017156/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000101.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="东方卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZu5ng.png" group-title="B-卫视",东方卫视
-http://39.135.36.155:18890/000000001000/1000000001000030202/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000110.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="安徽卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZu7As.png" group-title="B-卫视",安徽卫视
-rtsp://61.156.103.73:554/PLTV/88888888/224/3221225878/10000100000000060000000000215738_0.smil
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000135.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="广东卫视" tvg-logo="https://s2.ax1x.com/2019/12/29/luAwiq.png" group-title="B-卫视",广东卫视
-http://39.135.36.153:18890/000000001000/1000000001000028357/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000112.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="深圳卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZubhq.png" group-title="B-卫视",深圳卫视
-http://39.135.36.154:18890/000000001000/1000000001000011645/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000111.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="辽宁卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZuO3V.png" group-title="B-卫视",辽宁卫视
-http://39.135.36.156:18890/000000001000/1000000002000024033/1.m3u8?
+http://39.135.36.150:18890/000000001000/1000000002000024033/1.m3u8?
 #EXTINF:-1 tvg-id="30" tvg-name="山东卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZuXcT.png" group-title="B-卫视",山东卫视
-http://39.135.36.156:18890/000000001000/1000000001000012807/1.m3u8?
+http://39.135.36.142:18890/000000001000/1000000001000012807/1.m3u8?
 #EXTINF:-1 tvg-id="31" tvg-name="天津卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZuxuF.png" group-title="B-卫视",天津卫视
-http://39.135.36.153:18890/000000001000/1000000001000000831/1.m3u8?
+http://39.135.36.157:18890/000000001000/1000000001000000831/1.m3u8?
 #EXTINF:-1 tvg-id="32" tvg-name="重庆卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZuzB4.png" group-title="B-卫视",重庆卫视
-http://39.135.36.154:18890/000000001000/1000000002000018937/1.m3u8?
+http://39.135.36.150:18890/000000001000/1000000002000018937/1.m3u8?
 #EXTINF:-1 tvg-id="33" tvg-name="东南卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKP41.png" group-title="B-卫视",东南卫视
-http://39.135.36.155:18890/000000001000/1000000002000009263/1.m3u8?
+http://39.135.36.154:18890/000000001000/1000000002000009263/1.m3u8?
 #EXTINF:-1 tvg-id="35" tvg-name="广西卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKAgK.png" group-title="B-卫视",广西卫视
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000125.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="贵州卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKZuD.png" group-title="B-卫视",贵州卫视
-rtsp://61.156.103.73:554/PLTV/88888888/224/3221226547/10000100000000060000000001329927_0.smil
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000124.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="河北卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKuEd.png" group-title="B-卫视",河北卫视
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226526/10000100000000060000000001329928_0.smil
 #EXTINF:-1 tvg-id="38" tvg-name="黑龙江卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKM4I.png" group-title="B-卫视",黑龙江卫视
-http://39.135.36.152:18890/000000001000/1000000001000001925/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000113.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="湖北卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK18P.png" group-title="B-卫视",湖北卫视
-rtsp://61.156.103.73:554/PLTV/88888888/224/3221225879/10000100000000060000000000215740_0.smil
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000109.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="江西卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK3gf.png" group-title="B-卫视",江西卫视
-http://39.135.36.158:18890/000000001000/1000000001000013731/1.m3u8?
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000107.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="四川卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKJKS.png" group-title="B-卫视",四川卫视
 http://118.123.60.200:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="厦门卫视" tvg-logo="https://s2.ax1x.com/2019/12/29/lnKllt.png" group-title="B-卫视",厦门卫视
