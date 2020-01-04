@@ -150,9 +150,9 @@ http://180.94.172.134:8891/stream/channelid/1119622269
 #EXTINF:-1 tvg-id="256" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="D-海外",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="260" tvg-name="有线新闻" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="D-海外",有线新闻
-http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="有线综合娱乐" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5de5c9c268514.png" group-title="D-海外",有线综合娱乐
-http://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
+http://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门莲花" tvg-logo="https://s2.ax1x.com/2019/12/30/llaL4J.png" group-title="D-港澳台",澳门莲花
 http://180.94.172.134:8891/stream/channelid/359732891
 #EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="https://s2.ax1x.com/2019/12/30/llUpxx.png" group-title="D-海外",澳门资讯
