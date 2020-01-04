@@ -67,20 +67,18 @@ http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accessto
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226526/10000100000000060000000001329928_0.smil
 #EXTINF:-1 tvg-id="38" tvg-name="黑龙江卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKM4I.png" group-title="B-卫视",黑龙江卫视
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000113.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="河南卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKlCt.png" group-title="B-卫视",河南卫视
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=019&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="湖北卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK18P.png" group-title="B-卫视",湖北卫视
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000109.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="江西卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK3gf.png" group-title="B-卫视",江西卫视
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000107.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="吉林卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZK8v8.png" group-title="B-卫视",吉林卫视
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=025&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="四川卫视" tvg-logo="https://s2.ax1x.com/2019/12/27/lZKJKS.png" group-title="B-卫视",四川卫视
 http://118.123.60.200:8114/LIVES/Fsv_otype=3&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=10&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="厦门卫视" tvg-logo="https://s2.ax1x.com/2019/12/29/lnKllt.png" group-title="B-卫视",厦门卫视
 http://112.50.243.8/PLTV/88888888/224/3221226781/1.m3u8
-#EXTINF:-1 tvg-id="247" tvg-name="凤凰中文" tvg-logo="https://s2.ax1x.com/2019/12/29/luPwvQ.png" group-title="C-特色",凤凰中文
-http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1 tvg-id="248" tvg-name="凤凰资讯" tvg-logo="https://s2.ax1x.com/2019/12/29/luPt4f.png" group-title="C-特色",凤凰资讯
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://s2.ax1x.com/2019/12/29/luPUC8.png" group-title="C-特色",凤凰香港
-http://live.centerch.com/fhxg.m3u8
 #EXTINF:-1 tvg-id="170" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="C-特色",全纪实
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000119.m3u8
 #EXTINF:-1 tvg-id="171" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="C-特色",欢笑剧场
@@ -103,6 +101,12 @@ http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accessto
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000127.m3u8
 #EXTINF:-1 tvg-id="120" tvg-name="华诚DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg" group-title="C-特色",DOX TV
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000126.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="中数茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="C-特色",茶频道
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=070&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 tvg-id="160" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="C-特色",新视觉
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=075&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="每日影院" tvg-logo="" group-title="C-特色",每日影院
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=071&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="足球频道" tvg-logo="" group-title="C-特色",足球频道
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000130.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="精彩影视" tvg-logo="" group-title="C-特色",精彩影视
@@ -120,17 +124,19 @@ http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
 #EXTINF:-1 tvg-id="79" tvg-name="求索记录" tvg-logo="https://s2.ax1x.com/2019/12/29/lnZnBQ.png" group-title="C-特色",求索纪录
 http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="CHC高清电影" tvg-logo="https://s2.ax1x.com/2019/12/29/lnbEJ1.png" group-title="C-特色",CHC高清电影
-rtsp://61.156.103.73:554/PLTV/88888888/224/3221226688/10000100000000060000000001972391_0.smil
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000115.m3u8
 #EXTINF:-1 tvg-id="80" tvg-name="CHC动作电影" tvg-logo="https://s2.ax1x.com/2019/12/29/lnbVRx.png" group-title="C-特色",CHC动作电影
-rtsp://61.156.103.73:554/PLTV/88888888/224/3221226691/10000100000000060000000001972392_0.smil
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000120.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="CHC家庭电影" tvg-logo="https://s2.ax1x.com/2019/12/29/lnHDxK.png" group-title="C-特色",CHC家庭影院
-rtsp://61.156.103.73:554/PLTV/88888888/224/3221226699/10000100000000060000000001972393_0.smil
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000121.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="北京纪实" tvg-logo="https://s2.ax1x.com/2019/12/29/luPBuj.png" group-title="C-特色",北京冬奥纪实
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000145.m3u8
 #EXTINF:-1 tvg-id="180" tvg-name="上海纪实" tvg-logo="https://s2.ax1x.com/2019/12/29/luPqPK.png" group-title="C-特色",上海纪实
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000143.m3u8
 #EXTINF:-1 tvg-id="241" tvg-name="金鹰纪实" tvg-logo="https://s2.ax1x.com/2019/12/29/luPW2F.png" group-title="C-特色",金鹰纪实
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226354/10000100000000060000000000912072_0.smil
+#EXTINF:-1 tvg-id="239" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="C-特色",广东珠江
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=079&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="199" tvg-name="山东齐鲁" tvg-logo="https://s2.ax1x.com/2019/12/29/luPTV1.png" group-title="C-特色",山东齐鲁
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226516/10000100000000060000000001311826_0.smil
 #EXTINF:-1 tvg-id="200" tvg-name="山东体育" tvg-logo="https://s2.ax1x.com/2019/12/29/luPH56.png" group-title="C-特色",山东体育
@@ -139,6 +145,12 @@ rtsp://61.156.103.73:554/PLTV/88888888/224/3221225811/10000100000000060000000000
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221225812/10000100000000060000000000215683_0.smil
 #EXTINF:-1 tvg-id="206" tvg-name="山东生活" tvg-logo="https://s2.ax1x.com/2019/12/29/luP7Ux.png" group-title="C-特色",山东生活
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226689/10000100000000060000000001967168_0.smil
+#EXTINF:-1 tvg-id="247" tvg-name="凤凰中文" tvg-logo="https://s2.ax1x.com/2019/12/29/luPwvQ.png" group-title="D-海外",凤凰中文
+http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+#EXTINF:-1 tvg-id="248" tvg-name="凤凰资讯" tvg-logo="https://s2.ax1x.com/2019/12/29/luPt4f.png" group-title="D-海外",凤凰资讯
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://s2.ax1x.com/2019/12/29/luPUC8.png" group-title="D-海外",凤凰香港
+http://live.centerch.com/fhxg.m3u8
 #EXTINF:-1 tvg-id="242" tvg-name="翡翠台" tvg-logo="https://s2.ax1x.com/2019/12/30/ll0KhQ.png" group-title="D-海外",TVB翡翠台
 http://180.94.172.134:8891/stream/channelid/540849414
 #EXTINF:-1 tvg-id="257" tvg-name="J2" tvg-logo="https://s2.ax1x.com/2019/12/30/ll0e78.png" group-title="D-海外",TVB J2
@@ -153,20 +165,20 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="有线综合娱乐" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5de5c9c268514.png" group-title="D-海外",有线综合娱乐
 http://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="澳门莲花" tvg-logo="https://s2.ax1x.com/2019/12/30/llaL4J.png" group-title="D-海外",澳门莲花
+#EXTINF:-1 tvg-id="" tvg-name="澳门莲花" tvg-logo="https://s2.ax1x.com/2019/12/30/llaL4J.png" group-title="D-港澳台",澳门莲花
 http://180.94.172.134:8891/stream/channelid/359732891
 #EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="https://s2.ax1x.com/2019/12/30/llUpxx.png" group-title="D-海外",澳门资讯
 http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳门综艺" tvg-logo="https://s2.ax1x.com/2019/12/30/llUkZD.png" group-title="D-海外",澳门综艺
 http://103.233.191.138/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视体育" tvg-logo="https://s2.ax1x.com/2019/12/30/llUCM6.png" group-title="F-体育",澳视体育
+http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="https://s2.ax1x.com/2019/12/30/llUiqO.png" group-title="D-海外",澳视澳门
 http://103.233.191.138/ch1/ch1.live/master.m3u8
 #EXTINF:-1 tvg-id="251" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="E-影视",美亚电影
 http://cloud-play.hhalloy.com/live/4a1141f101530bff4fc0e9229625e6b5.flv
 #EXTINF:-1 tvg-id="266" tvg-name="星卫HD电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="E-影视",星卫HD电影
 http://cloud-play.hhalloy.com/live/41e05f3849c21412aa8b347f18adb3f6.flv
-#EXTINF:-1 tvg-id="" tvg-name="澳视体育" tvg-logo="https://s2.ax1x.com/2019/12/30/llUCM6.png" group-title="F-体育",澳视体育
-http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="268" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="D-海外",Channel V
 http://cloud-play.hhalloy.com/live/c8ade260941e368acfdb110a04811b3e.flv
 #EXTINF:-1 tvg-id="281" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="D-海外",中视[HD]
@@ -287,6 +299,14 @@ http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
 http://cloud-play.hhalloy.com/live/94283c6401f80334d9acd488b649830b.flv
 #EXTINF:-1 tvg-id="535" tvg-name="ElevenSportPlus" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensportsplus.png" group-title="F-体育",ELEVEN SPORTS PLUS
 http://cloud-play.hhalloy.com/live/b599c0682fbb5364078cb9e3093228a6.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-特色",广东体育
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=008&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-特色",广州电视台
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=081&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-特色",广州新闻
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=011&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="C-特色",广州影视
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=052&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lumzqO.png" group-title="C-特色",厦门综合
 http://112.50.243.8/PLTV/88888888/224/3221226814/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/lunpZD.png" group-title="C-特色",厦门海峡
@@ -494,9 +514,9 @@ http://hls-ott-zhibo.wasu.tv/live/234/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="J-华数",华数-公主城堡
 http://hls-ott-zhibo.wasu.tv/live/328/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/28/lm3oE8.png" group-title="K-4K专区",CCTV[4K]
-http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=082&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luA0J0.png" group-title="K-4K专区",广东综艺[4K]
-http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=077&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.ax1x.com/2019/12/29/luAaon.png" group-title="K-4K专区",纯享[4K]
 http://112.50.243.4/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="K-4K专区",爱上[4K]
