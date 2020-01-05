@@ -125,8 +125,6 @@ http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accessto
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000143.m3u8
 #EXTINF:-1 tvg-id="241" tvg-name="金鹰纪实" tvg-logo="https://s2.ax1x.com/2019/12/29/luPW2F.png" group-title="C-特色",金鹰纪实
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226354/10000100000000060000000000912072_0.smil
-#EXTINF:-1 tvg-id="239" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="C-特色",广东珠江
-http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=079&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="199" tvg-name="山东齐鲁" tvg-logo="https://s2.ax1x.com/2019/12/29/luPTV1.png" group-title="C-特色",山东齐鲁
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226516/10000100000000060000000001311826_0.smil
 #EXTINF:-1 tvg-id="200" tvg-name="山东体育" tvg-logo="https://s2.ax1x.com/2019/12/29/luPH56.png" group-title="C-特色",山东体育
