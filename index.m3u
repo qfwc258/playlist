@@ -121,8 +121,6 @@ http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accessto
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000121.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="北京纪实" tvg-logo="https://s2.ax1x.com/2019/12/29/luPBuj.png" group-title="C-特色",北京冬奥纪实
 http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E0B093DU31981104K773DA728IB25D1374PBM3491E88V10400Z57EA5W15E567F952FC25EA&playtoken=ABCDEFGH&verifycode=2000529192&programid=4200000145.m3u8
-#EXTINF:-1 tvg-id="180" tvg-name="上海纪实" tvg-logo="https://s2.ax1x.com/2019/12/29/luPqPK.png" group-title="C-特色",上海纪实
-rtsp://113.136.42.41:554/PLTV/88888888/224/3221226121/10000100000000060000000001766016_0.smil
 #EXTINF:-1 tvg-id="241" tvg-name="金鹰纪实" tvg-logo="https://s2.ax1x.com/2019/12/29/luPW2F.png" group-title="C-特色",金鹰纪实
 rtsp://61.156.103.73:554/PLTV/88888888/224/3221226354/10000100000000060000000000912072_0.smil
 #EXTINF:-1 tvg-id="199" tvg-name="山东齐鲁" tvg-logo="https://s2.ax1x.com/2019/12/29/luPTV1.png" group-title="C-特色",山东齐鲁
